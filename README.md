@@ -2,7 +2,7 @@
 
 Litecoinz-seeder is a crawler for the LitecoinZ network, which exposes a list of reliable nodes via a built-in DNS server.
 
-Run your LitecoinZ seeder and post it in https://github.com/litecoinz-project/litecoinz/issues/1. We need a lot of seed nodes to be fully decentralized!
+Run your LitecoinZ seeder and post it in https://github.com/litecoinz-project/litecoinz/issues/3. We need a lot of seed nodes to be fully decentralized!
 
 Features:
 * regularly revisits known nodes to check their availability
